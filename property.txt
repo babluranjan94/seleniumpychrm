@@ -1,0 +1,8 @@
+APPURL==http://beta.xtudy.xyz
+LOGINID==admin33
+PASSWORD==kickme
+XUSERINPUT==.//input[@name='username']
+XUSERPASS==.//input[@name='password']
+XLOGINBUTT==.//button[contains(text(),'go')]
+ADMISSION_LINK==/html/body/div[1]/div[1]/div[2]/ul/li[3]
+ADD_STUDENT==//*[@id="admission"]/ul/li[1]/a/span
